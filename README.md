@@ -39,6 +39,7 @@ Ao final do treinamento, o modelo será capaz de **classificar imagens de gatos 
 
 Sinta-se à vontade para contribuir com melhorias ou sugestões! Caso tenha alguma dúvida, abra uma **issue** ou me envie uma mensagem diretamente.
 
-### 🧑‍💻 **Contato**
-Você pode me encontrar no meu perfil do GitHub: [**Samuel Batista**](https://github.com/samuelbatistadeb)
+---
+**Desenvolvido por**: Samuel Batista  
+**Data**: Janeiro de 2025
 
